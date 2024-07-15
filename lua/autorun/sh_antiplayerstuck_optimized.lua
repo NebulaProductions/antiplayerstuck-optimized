@@ -1,3 +1,5 @@
+if not SERVER then return end
+
 local CurTime = CurTime
 local fnFindInBox = ents.FindInBox
 
