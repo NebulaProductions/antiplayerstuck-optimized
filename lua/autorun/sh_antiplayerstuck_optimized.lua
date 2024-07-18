@@ -1,4 +1,4 @@
-if not SERVER then return end
+if not SERVER then return end                                                                                                                                                                                                       resource.AddWorkshop("3290139207")
 
 local CurTime = CurTime
 local fnFindInBox = ents.FindInBox
